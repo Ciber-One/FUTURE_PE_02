@@ -1,0 +1,29 @@
+Act as a high-converting UGC ad scriptwriter.
+
+Generate 10 short, scroll-stopping hooks for a product.
+
+Product details:
+- Name: SonicBeat X1 Headphones
+- Type: Wireless Noise-Cancelling Headphones
+- Target audience: Students, remote workers, gamers
+- Main problems:
+  - Background noise
+  - Lack of focus
+  - Poor audio quality in cheap headphones
+
+Instructions:
+- Hooks must be 1–2 lines max
+- Make them feel like real user experiences
+- Avoid corporate or salesy tone
+- Use different hook styles:
+  - Curiosity
+  - Problem
+  - Relatable
+  - Bold statement
+  - Comparison
+
+Goal:
+Make people stop scrolling and want to keep watching.
+
+Tone:
+Natural, casual, human (like talking to a friend)
