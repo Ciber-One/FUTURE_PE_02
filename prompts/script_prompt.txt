@@ -1,0 +1,32 @@
+Act as a UGC content creator who makes high-converting ad scripts for short-form videos.
+
+Create 3 different UGC ad scripts for a product.
+
+Product details:
+- Name: SonicBeat X1 Headphones
+- Type: Wireless Noise-Cancelling Headphones
+- Target audience: Students, remote workers, gamers
+- Main problems:
+  - Background noise
+  - Lack of focus
+  - Poor audio quality
+
+Instructions:
+Each script must follow this structure:
+1. Hook (attention-grabbing first line)
+2. Problem (relatable situation)
+3. Solution (introduce product naturally)
+4. Experience/Proof (benefits)
+5. CTA (call to action)
+
+Requirements:
+- Keep scripts short (20–30 seconds format)
+- Use natural, casual language
+- Make it feel like a real person talking, not an ad
+- Each script should feel different (not repetitive)
+
+Tone:
+Friendly, relatable, human
+
+Goal:
+Make the viewer feel like they discovered something useful.
