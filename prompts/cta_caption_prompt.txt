@@ -1,0 +1,26 @@
+Act as a UGC content marketer.
+
+Generate:
+1. 5 short CTA lines
+2. 5 Instagram captions for ads
+
+Product details:
+- Name: SonicBeat X1 Headphones
+- Target audience: Students, remote workers, gamers
+
+Instructions for CTA:
+- Very short (1 line)
+- Action-driven
+- Natural, not salesy
+
+Instructions for captions:
+- 1–2 lines max
+- Relatable + engaging
+- Can include light emotion or curiosity
+- Add 2–3 relevant hashtags
+
+Tone:
+Casual, human, non-corporate
+
+Goal:
+Make the content feel like real user-generated content, not ads.
